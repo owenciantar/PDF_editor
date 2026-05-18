@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Test/sample PDFs — never commit these (may contain personal info)
+*.pdf
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
